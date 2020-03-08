@@ -1,0 +1,8 @@
+#footer{
+    font-size: 14px;
+}
+
+#github, #wechat{
+    cursor: pointer;
+    text-align: center;
+}

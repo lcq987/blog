@@ -1,0 +1,26 @@
+a{
+    color: #333333;
+}
+
+#header{
+    margin-top: 20px;
+}
+
+#top{
+    line-height: 40px;
+}
+
+#blogName{
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#nav{
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+

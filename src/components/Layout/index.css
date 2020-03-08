@@ -1,0 +1,30 @@
+#box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+#left_side{
+    order: 1;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+#center_area{
+    order: 2;
+    flex-grow: 2.5;
+    max-width: 1200px;
+}
+
+#content{
+    width: 100%;
+    margin: 0;
+}
+
+#right_side{
+    order: 3;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
